@@ -10,7 +10,7 @@
 * [Mobi](https://www.gitbook.com/download/mobi/book/krasimir/react-in-patterns)
 * [ePub](https://www.gitbook.com/download/epub/book/krasimir/react-in-patterns)
 
-![React na cobertura de padrões](./book/cover_small.jpg)
+![React na cobertura de padrões](../book/cover_small.jpg)
 
 ## Traduções
 
